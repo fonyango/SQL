@@ -6,10 +6,14 @@ HERE, I am using SQLALchemy in Jupyter notebooks with SQLite to conduct my analy
 
 Data Source: This dataset is from https://data.world/raghav333/fifa-players and it contains data of Fifa Players over the years.
 
-Check the ReadME file for more details on the dataset.
 
-My Approach: MY APPROACH on this analysis is pretty simple. I have created a database called fifaDB with one table, soccer, using SQLIte studio and then imported it into this notebook. Secondly, I'm using sqlite RDBMS to query the database and perform analysis.
+**My Approach**: MY APPROACH on this analysis is pretty simple. I have created a database called *fifaDB* with one table, soccer, using *SQLIte studio* and then imported it into this notebook. Secondly, I'm using *sqlite RDBMS* to query the database and perform analysis.
 
-In a separate notebook, I will create some interesting and captivating visualizations using some Python libraries.
+In separate notebooks, I will create some interesting and captivating visualizations using some Python libraries.
 
 SO, lets DIVE IN!
+
+Contents:
+- **notebook-01.ipynb** contains preliminary exploration of the data.
+
+In coming notebooks, I will dive deeper into queries the table and getting insights from the data.
