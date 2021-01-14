@@ -1,6 +1,6 @@
 
 FIFA ANALYTICS
-IN THIS NOTEBOOK, I delve deeper into fifa data to unravel some insights from it. I like football and this is an exciting dataset to explore. Follow through with me to learn and to get to discover the gem in this dataset.
+IN THIS FOLDER, I delve deeper into fifa data to unravel some insights from it. I like football and this is an exciting dataset to explore. Follow through with me to learn and to get to discover the gem in this dataset.
 
 HERE, I am using SQLALchemy in Jupyter notebooks with SQLite to conduct my analysis.
 
