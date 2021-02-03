@@ -4,7 +4,7 @@ IN THIS FOLDER, I delve deeper into fifa data to unravel some insights from it. 
 
 HERE, I am using SQLALchemy in Jupyter notebooks with SQLite to conduct my analysis.
 
-Data Source: This dataset is from https://data.world/raghav333/fifa-players and it contains data of Fifa Players over the years.
+The Data Source: This dataset is from https://data.world/raghav333/fifa-players and it contains data of Fifa Players over the years.
 
 
 **My Approach**: MY APPROACH on this analysis is pretty simple. I have created a database called *fifaDB* with one table, soccer, using *SQLIte studio* and then imported it into this notebook. Secondly, I'm using *sqlite RDBMS* to query the database and perform analysis.
